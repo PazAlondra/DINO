@@ -1,0 +1,43 @@
+python.exe -m pip install --upgrade pip
+pip install opencv-python      
+
+
+
+
+Director.python
+
+(env) PS C:\Users\Alondra\Downloads\.VSCODE\ANIMACION\PROYECTOVISION> python director.py
+Fuente encontrada en índice 0
+Fuente encontrada en índice 1
+[ WARN:0@0.001] global cap_ffmpeg_impl.hpp:1217 open VIDEOIO/FFMPEG: Failed list devices for backend dshow
+[ERROR:0@9.911] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+[ERROR:0@9.976] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+[ERROR:0@10.043] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+[ERROR:0@10.105] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+[ERROR:0@10.171] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+[ERROR:0@10.238] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+[ERROR:0@10.306] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+[ERROR:0@10.370] global obsensor_uvc_stream_channel.cpp:163 cv::obsensor::getStreamChannelGroup Camera index out of range
+
+
+--------------------------------------------------------
+import cv2
+
+for i in range(10):
+    cap = cv2.VideoCapture(i)
+
+    if cap.isOpened():
+        ret, frame = cap.read()
+
+        if ret:
+            print(f"Fuente encontrada en índice {i}")
+            cv2.imshow(f"Indice {i}", frame)
+            cv2.waitKey(2000)
+
+    cap.release()
+
+cv2.destroyAllWindows()
+----------------------------------------------------
+
+TECLAS
+ pip install pyautogui
