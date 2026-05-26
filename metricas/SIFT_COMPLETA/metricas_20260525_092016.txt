@@ -1,0 +1,86 @@
+Metricas de partida
+===================
+Fecha: 2026-05-25T09:20:16
+Modo: sift_mascaras
+Saltos: 75
+Tiempo total: 65.67 segundos
+Tiempo primer-ultimo salto: 41.29 segundos
+Puntaje final: 506
+
+Eventos detectados
+------------------
+11.80s | detectado=cactus | accion=saltar
+11.96s | detectado=cactus | accion=saltar
+12.73s | detectado=cactus | accion=saltar
+12.86s | detectado=cactus | accion=saltar
+13.67s | detectado=cactus | accion=saltar
+13.81s | detectado=cactus | accion=saltar
+15.36s | detectado=cactus | accion=saltar
+15.51s | detectado=cactus | accion=saltar
+16.45s | detectado=cactus | accion=saltar
+16.58s | detectado=cactus | accion=saltar
+17.41s | detectado=cactus | accion=saltar
+17.55s | detectado=cactus | accion=saltar
+17.68s | detectado=cactus | accion=saltar
+18.44s | detectado=cactus | accion=saltar
+18.63s | detectado=cactus | accion=saltar
+19.43s | detectado=cactus | accion=saltar
+19.62s | detectado=cactus | accion=saltar
+20.34s | detectado=cactus | accion=saltar
+20.48s | detectado=cactus | accion=saltar
+20.62s | detectado=cactus | accion=saltar
+21.81s | detectado=cactus | accion=saltar
+22.65s | detectado=cactus | accion=saltar
+22.80s | detectado=cactus | accion=saltar
+23.81s | detectado=cactus | accion=saltar
+23.94s | detectado=cactus | accion=saltar
+24.82s | detectado=cactus | accion=saltar
+24.95s | detectado=cactus | accion=saltar
+25.11s | detectado=cactus | accion=saltar
+26.44s | detectado=cactus | accion=saltar
+26.60s | detectado=cactus | accion=saltar
+27.22s | detectado=cactus | accion=saltar
+27.37s | detectado=cactus | accion=saltar
+28.86s | detectado=cactus | accion=saltar
+29.61s | detectado=cactus | accion=saltar
+29.87s | detectado=cactus | accion=saltar
+31.08s | detectado=cactus | accion=saltar
+31.23s | detectado=cactus | accion=saltar
+31.81s | detectado=cactus | accion=saltar
+31.96s | detectado=cactus | accion=saltar
+32.09s | detectado=cactus | accion=saltar
+33.45s | detectado=cactus | accion=saltar
+33.67s | detectado=cactus | accion=saltar
+35.02s | detectado=cactus | accion=saltar
+35.21s | detectado=cactus | accion=saltar
+35.76s | detectado=cactus | accion=saltar
+35.91s | detectado=cactus | accion=saltar
+36.55s | detectado=cactus | accion=saltar
+36.71s | detectado=cactus | accion=saltar
+37.60s | detectado=cactus | accion=saltar
+38.25s | detectado=cactus | accion=saltar
+38.40s | detectado=cactus | accion=saltar
+39.22s | detectado=cactus | accion=saltar
+40.53s | detectado=cactus | accion=saltar
+40.68s | detectado=cactus | accion=saltar
+41.21s | detectado=cactus | accion=saltar
+41.34s | detectado=cactus | accion=saltar
+41.81s | detectado=cactus | accion=saltar
+41.95s | detectado=cactus | accion=saltar
+43.26s | detectado=cactus | accion=saltar
+43.41s | detectado=cactus | accion=saltar
+44.37s | detectado=cactus | accion=saltar
+44.55s | detectado=cactus | accion=saltar
+45.86s | detectado=cactus | accion=saltar
+46.02s | detectado=cactus | accion=saltar
+46.97s | detectado=cactus | accion=saltar
+47.17s | detectado=cactus | accion=saltar
+48.44s | detectado=cactus | accion=saltar
+48.60s | detectado=cactus | accion=saltar
+49.21s | detectado=cactus | accion=saltar
+49.34s | detectado=cactus | accion=saltar
+50.39s | detectado=cactus | accion=saltar
+50.54s | detectado=cactus | accion=saltar
+51.61s | detectado=cactus | accion=saltar
+51.84s | detectado=cactus | accion=saltar
+53.08s | detectado=cactus | accion=saltar

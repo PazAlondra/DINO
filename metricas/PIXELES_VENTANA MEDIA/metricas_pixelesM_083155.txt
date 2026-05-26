@@ -1,0 +1,55 @@
+Metricas de partida
+===================
+Fecha: 2026-05-25T08:31:55
+Modo: pixeles
+Saltos: 44
+Tiempo total: 39.31 segundos
+Tiempo primer-ultimo salto: 18.90 segundos
+Puntaje final: 241
+
+Eventos detectados
+------------------
+8.38s | detectado=cactus | accion=saltar
+8.53s | detectado=cactus | accion=saltar
+9.18s | detectado=cactus | accion=saltar
+9.32s | detectado=cactus | accion=saltar
+9.97s | detectado=cactus | accion=saltar
+10.11s | detectado=cactus | accion=saltar
+10.90s | detectado=cactus | accion=saltar
+11.04s | detectado=cactus | accion=saltar
+11.18s | detectado=cactus | accion=saltar
+12.23s | detectado=cactus | accion=saltar
+12.37s | detectado=cactus | accion=saltar
+13.08s | detectado=cactus | accion=saltar
+13.23s | detectado=cactus | accion=saltar
+14.02s | detectado=cactus | accion=saltar
+14.16s | detectado=cactus | accion=saltar
+14.29s | detectado=cactus | accion=saltar
+15.20s | detectado=cactus | accion=saltar
+15.34s | detectado=cactus | accion=saltar
+15.47s | detectado=cactus | accion=saltar
+16.20s | detectado=cactus | accion=saltar
+16.34s | detectado=cactus | accion=saltar
+16.48s | detectado=cactus | accion=saltar
+17.85s | detectado=cactus | accion=saltar
+17.99s | detectado=cactus | accion=saltar
+18.50s | detectado=cactus | accion=saltar
+18.64s | detectado=cactus | accion=saltar
+18.78s | detectado=cactus | accion=saltar
+19.37s | detectado=cactus | accion=saltar
+19.50s | detectado=cactus | accion=saltar
+19.64s | detectado=cactus | accion=saltar
+20.42s | detectado=cactus | accion=saltar
+20.56s | detectado=cactus | accion=saltar
+21.63s | detectado=cactus | accion=saltar
+21.77s | detectado=cactus | accion=saltar
+22.59s | detectado=cactus | accion=saltar
+22.73s | detectado=cactus | accion=saltar
+22.86s | detectado=cactus | accion=saltar
+24.25s | detectado=cactus | accion=saltar
+24.39s | detectado=cactus | accion=saltar
+25.32s | detectado=cactus | accion=saltar
+25.46s | detectado=cactus | accion=saltar
+27.00s | detectado=cactus | accion=saltar
+27.14s | detectado=cactus | accion=saltar
+27.29s | detectado=cactus | accion=saltar

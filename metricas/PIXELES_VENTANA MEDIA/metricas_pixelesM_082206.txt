@@ -1,0 +1,50 @@
+Metricas de partida
+===================
+Fecha: 2026-05-25T08:22:06
+Modo: pixeles
+Saltos: 38
+Tiempo total: 26.96 segundos
+Tiempo primer-ultimo salto: 14.13 segundos
+Puntaje final: 180
+Cambios:0
+
+Eventos detectados
+------------------
+7.28s | detectado=cactus | accion=saltar
+7.44s | detectado=cactus | accion=saltar
+7.60s | detectado=cactus | accion=saltar
+8.33s | detectado=cactus | accion=saltar
+8.48s | detectado=cactus | accion=saltar
+8.64s | detectado=cactus | accion=saltar
+9.22s | detectado=cactus | accion=saltar
+9.37s | detectado=cactus | accion=saltar
+9.52s | detectado=cactus | accion=saltar
+10.27s | detectado=cactus | accion=saltar
+10.42s | detectado=cactus | accion=saltar
+10.57s | detectado=cactus | accion=saltar
+11.84s | detectado=cactus | accion=saltar
+11.99s | detectado=cactus | accion=saltar
+12.81s | detectado=cactus | accion=saltar
+12.95s | detectado=cactus | accion=saltar
+13.65s | detectado=cactus | accion=saltar
+13.79s | detectado=cactus | accion=saltar
+13.95s | detectado=cactus | accion=saltar
+14.76s | detectado=cactus | accion=saltar
+14.89s | detectado=cactus | accion=saltar
+15.05s | detectado=cactus | accion=saltar
+16.08s | detectado=cactus | accion=saltar
+16.25s | detectado=cactus | accion=saltar
+16.39s | detectado=cactus | accion=saltar
+17.00s | detectado=cactus | accion=saltar
+17.15s | detectado=cactus | accion=saltar
+17.95s | detectado=cactus | accion=saltar
+18.11s | detectado=cactus | accion=saltar
+18.63s | detectado=cactus | accion=saltar
+18.77s | detectado=cactus | accion=saltar
+19.28s | detectado=cactus | accion=saltar
+19.42s | detectado=cactus | accion=saltar
+20.31s | detectado=cactus | accion=saltar
+20.46s | detectado=cactus | accion=saltar
+21.11s | detectado=cactus | accion=saltar
+21.26s | detectado=cactus | accion=saltar
+21.41s | detectado=cactus | accion=saltar

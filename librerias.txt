@@ -1,0 +1,55 @@
+Librerias del proyecto
+======================
+
+Instalacion recomendada:
+
+python -m pip install --upgrade pip
+pip install opencv-python pyautogui numpy
+
+
+opencv-python / cv2
+-------------------
+Uso:
+- Capturar camara virtual de OBS en capturas.py.
+- Convertir frames a escala de grises y binario en preprocesamiento.py.
+- Crear y comparar descriptores SIFT en metodo1.py.
+- Detectar contornos y procesar pixeles en metodo2.py.
+- Generar mascaras binarias en mascaras.py.
+- Reconocer numeros por mascaras en metricas.py.
+- Mostrar ventanas Original y Binarizado en inicio.py.
+
+
+pyautogui
+---------
+Uso:
+- Presionar la tecla "up" cuando se detecta un obstaculo en inicio.py.
+
+
+numpy
+-----
+Uso:
+- Calcular medianas/promedios de pixeles.
+- Crear mascaras binarias.
+- Comparar rangos de intensidades.
+- Manipular arrays de imagen en preprocesamiento.py, metodo2.py, mascaras.py y metricas.py.
+
+
+time
+----
+Uso:
+- Controlar cooldown entre saltos.
+- Recalibrar el dino despues de cierto intervalo.
+- Medir tiempo de partida y tiempo entre primer/ultimo salto en metricas.py.
+
+
+os
+--
+Uso:
+- Leer carpetas de imagenes y mascaras.
+- Crear carpetas de salida para mascaras y metricas.
+
+
+datetime
+--------
+Uso:
+- Crear nombres de archivos de metricas con fecha y hora.
